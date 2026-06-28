@@ -7,7 +7,8 @@ Using <b>Power Query</b> for ETL, <b>Power Pivot</b> for data modeling, and <b>D
 </p>
 
 This is Market Performance vs Target report
-<img width="1920" height="1080" alt="Screenshot (336)" src="https://github.com/user-attachments/assets/3c06b95a-0179-45c0-8fce-2e32ff61be7b" />
+<img width="1091" height="817" alt="Screenshot 2026-06-29 014827" src="https://github.com/user-attachments/assets/b260c73d-2388-4b70-8f5e-742c3f2cd07b" />
+
 
 
 This is key Metrices
