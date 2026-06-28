@@ -1,10 +1,17 @@
 <p>
-This project analyzes <b>4 years of sales and financial data</b> for AtliQ Hardwares using Microsoft Excel. The dashboard enables stakeholders to monitor sales performance, profitability, customer trends, and market growth across multiple fiscal years.
+This project analyzes <b>4 years of sales and financial data</b> for AtliQ Hardwares using Microsoft Excel. The report enables stakeholders to monitor sales performance, profitability, customer trends, and market growth across multiple fiscal years.
 </p>
 
 <p>
 Using <b>Power Query</b> for ETL, <b>Power Pivot</b> for data modeling, and <b>DAX</b> for KPI calculations, the project delivers executive-level insights that support strategic business decisions.
 </p>
+
+This is Market Performance vs Target report
+<img width="1920" height="1080" alt="Screenshot (336)" src="https://github.com/user-attachments/assets/3c06b95a-0179-45c0-8fce-2e32ff61be7b" />
+
+
+This is key Metrices
+<img width="1252" height="416" alt="Screenshot 2026-06-29 020652" src="https://github.com/user-attachments/assets/867c20d6-50ab-4e25-909d-7e0d952fd68c" />
 
 <hr>
 
